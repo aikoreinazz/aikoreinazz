@@ -1,5 +1,8 @@
 # 💫 About Me:
 Learning Codes
+Likes To View on other ppls repo/works
+Plays Roblox
+Fav game : Mini war,da hoods,idk
 
 
 # 💻 Tech Stack:
