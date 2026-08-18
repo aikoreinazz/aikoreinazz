@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    hi there! im<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.men.com/"> big danix</a></b>.
-    <br> #67 #67 #67 #67 #67<br>
+    hi there! im<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.women.com/">Kiyoshi</a></b>.
+    <br> i made < #11fuscator 👀 > <br>
 
 </samp>
 
