@@ -11,9 +11,11 @@
 </p>
 
 <p1 align="center">
-  </samp>
+  <samp>
   im happy u saw my github pfp ^^
   im so from japan!!
+
+</samp>
 
 <details align="center">
 
