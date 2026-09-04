@@ -10,6 +10,9 @@
 
 </p>
 
+<p1 align="center">
+  im happy u saw my github pfp ^^
+  im so from japan!!
 
 <details align="center">
 
