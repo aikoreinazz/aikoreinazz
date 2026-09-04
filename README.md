@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://static.wikia.nocookie.net/skul/images/4/4c/Grim_Reaper_Idle.gif/revision/latest?cb=20220803042344" width="200"/>
+  <img src="https://raw.githubusercontent.com/aikoreinazz/aikoreinazz/refs/heads/main/happy.webp" width="200"/>
 
 </p>
 
