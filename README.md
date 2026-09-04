@@ -12,8 +12,7 @@
 
 <p1 align="center">
   <samp>
-    im happy u saw my github pfp ^^
-    im so from japan!!
+    im happy u saw my github pfp ^^,       im so from japan!!
 
 </samp>
 
