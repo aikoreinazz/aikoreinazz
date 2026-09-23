@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/aikoreinazz/aikoreinazz/main/hello-cat.webp" width="180">
 </p><p align="center">
   <samp>
-    hi there! im <b><a href="https://github.com/aikoreinazz">Aiko or Reina</a></b> ^^
+    hi there! im <b><a href="https://women.com">Aiko or Reina</a></b> ^^
     <br>
     i made <b>&lt; Luaufuscator &gt;,  tho only in secret for own use</b>
     <br><br>
