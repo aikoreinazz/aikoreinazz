@@ -4,7 +4,7 @@
   <samp>
     hi there! im <b><a href="https://github.com/aikoreinazz">Aiko or Reina</a></b> ^^
     <br>
-    i made <b>&lt; Luaufuscator &gt;</b>
+    i made <b>&lt; Luaufuscator &gt;,  tho only in secret for own use</b>
     <br><br>
     im happy u saw my github pfp!
   </samp>
