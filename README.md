@@ -36,7 +36,7 @@
   </a>
 </p><p align="center">
   <samp>
-    <b>#11fuscator</b>
+    <b>Luaufuscator</b>
     <br>
     a lua / luau obfuscation project 👀
   </samp>
