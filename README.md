@@ -4,7 +4,7 @@
   <samp>
     hi there! im <b><a href="https://github.com/aikoreinazz">Aiko or Reina</a></b> ^^
     <br>
-    i made <b>&lt; #11fuscator 👀 &gt;</b>
+    i made <b>&lt; made my own obfuscator &gt;</b>
     <br><br>
     im happy u saw my github pfp!
   </samp>
